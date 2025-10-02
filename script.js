@@ -25,3 +25,7 @@ new Vue({
     }
   }
 });
+
+function redirecionar() {
+            window.location.href = "https://www.exemplo.com"; // Substitua pelo link desejado
+        }
